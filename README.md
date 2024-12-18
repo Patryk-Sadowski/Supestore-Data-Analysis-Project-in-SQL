@@ -32,7 +32,7 @@ To provide answers for ad hoc queries/questions that can help in optimizing busi
 ## How to use
 
 1. Download the repository to your machine.
-2. Import it in MySql do ETL(Extract, Transform, Load) if required
+2. Import `Superstore.sql` it in MySql do ETL(Extract, Transform, Load) if required
 
 ## Data Source
 The dataset was sourced from public of source
